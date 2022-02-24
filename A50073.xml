@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Severall lavvs and orders made at the General Courts in May 3, August 1, &amp; October 11, 1665 printed and published by order of the General Court held at Boston the 11th of October, 1665, by Edward Rawson, secr.</title>
+            <title>Laws, etc.</title>
+            <author>Massachusetts.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A50073</idno>
+            <idno type="STC">Wing M1019</idno>
+            <idno type="STC">ESTC R36914</idno>
+            <idno type="EEBO-CITATION">16151982</idno>
+            <idno type="OCLC">ocm 16151982</idno>
+            <idno type="VID">104901</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A50073)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104901)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1597:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Severall lavvs and orders made at the General Courts in May 3, August 1, &amp; October 11, 1665 printed and published by order of the General Court held at Boston the 11th of October, 1665, by Edward Rawson, secr.</title>
+                  <title>Laws, etc.</title>
+                  <author>Massachusetts.</author>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>Samuel Green,</publisher>
+                  <pubPlace>[Cambridge, Mass. :</pubPlace>
+                  <date>1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>At head of title: Fornication, assessments on strangers.</note>
+                  <note>Imprint suggested by Wing and NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard Law School Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  Massachusetts.</term>
+               <term>Massachusetts --  History --  Colonial period, ca. 1600-1775.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104901:1"/>
+            <!-- PDF PAGE 107 -->
+            <pb n="1" facs="tcp:104901:1"/>
+            <!-- PDF PAGE 107 -->
+            <head>SEVERAL LAVVS and ORDERS Made at the GENERAL COURTS IN <hi>May</hi> 3. <hi>Auguſt</hi> 1. &amp; <hi>October</hi> 11. 1665.</head>
+            <head type="sub">
+               <hi>PRinted and Publiſhed by Order of the</hi> General Court <hi>held at</hi> Boſton <hi>the</hi> 11<hi rend="sup">th</hi> 
+               <hi>of</hi> October, 1665.</head>
+            <byline>By <hi>Edward Rawſon</hi> Secr'.</byline>
+            <div type="date">
+               <head>
+                  <hi>MAY</hi> the 3. 1665.</head>
+               <p>
+                  <note place="margin">Addition to the Law of Fornication.</note>
+                  <hi>THere being a ſeeming contradiction between the Laws tit.</hi> Fornication, pag. 33. <hi>and title</hi> Puniſhment, <hi>pag.</hi> 67. This Court doth Declare, That the former referring to a particular Crime, a ſhameful Sin, much increaſing amongſt us, to the great diſhonour of God, and our Profeſſion of his Holy Name, the puniſhment of that Sin ſhall be as is preſcribed in the ſaid Law, Any thing that may ſeem to reſtrain or limit the ſame, contained in the other Law <hi>tit. Puniſhment,</hi> notwithſtanding. And in caſe any perſon legally convicted of that or any other ſhameful and vicious Crime, be a Freeman; It ſhall be in the liberty and power of the Court that hath the proper cognizance thereof, beſides any other Penalty or Puniſhment, to adde Disfranchiſement thereto.</p>
+               <p>
+                  <note place="margin">Order for Ra<g ref="char:EOLhyphen"/>ting ſtrangers: <hi>Or,</hi> Order for Aſ<g ref="char:EOLhyphen"/>ſeſſments on ſtrangers.</note>
+                  <hi>THis Court underſtanding that ſeveral Gentlemen Merchants ſtrangers, in the beginning of every year frequently coming into theſe parts, and bringing great ſtore of Engliſh and other Goods of all ſorts to great value; and uſually making up their Markets to their great advantage before the</hi> Sixth Moneth, <hi>when the Rates, or Order for the Collecting of them, by Law is to iſſue out, (not without a conſiderable diſadvantage to the Merchants and Shop-keepers, Reſidents and Inha<g ref="char:EOLhyphen"/>bitants of this Colony, who have born the heat of the day, and are fain to be at all the Charge for ſupporting of the Government) and the ſaid Merchants ſtrangers taking the chief of the benefit of the Trade, and make their eſcapes without any
+<pb n="2" facs="tcp:104901:2"/>
+                     <!-- PDF PAGE 108 -->payment to ſupport the Government of this place, under, and by which they reap ſo great advantage to themſelves:</hi> It is therefore Ordered, That it ſhall be hence<g ref="char:EOLhyphen"/>forth lawful for the Select-men of each Town, where ſuch Strangers are, or ſhall be, to aſſeſs all ſuch Strangers, according to the <hi>Cargo's</hi> they ſhall bring into this Country: Or in caſe of their refuſal to give a true Account of their Eſtate to the Select-men; then the ſaid Select-men ſhall, and hereby are im<g ref="char:EOLhyphen"/>powered to make their Aſſeſſment on all ſuch Strangers in any Moneth of the Year, yearly, in proportion to a ſingle Rate by will and doom, as the Inhabi<g ref="char:EOLhyphen"/>tants of this Country are uſed to be rated; and for non-payment, by the Con<g ref="char:EOLhyphen"/>ſtables to levy their ſaid Aſſeſſments, as in other caſes, by Warrant from the ſaid Select-men.</p>
+               <p>
+                  <note place="margin">Directions to Court-officers to grant C<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>pies &amp;c.</note>
+                  <hi>REſolved upon the Queſtion,</hi> That the words <hi>Rolls, Records, or Regiſter of any Court or Office,</hi> contained in the Printed Laws <hi>tit. Records, &amp;c. Sect.</hi> 3. <hi>pag.</hi> 69. are to be interpreted and underſtood onely of ſuch acts of Court as concern particular perſons in matters of Juſtice, Licenſe, Grant or Appro<g ref="char:EOLhyphen"/>bation; or of ſuch Laws as are of publick concernment.</p>
+            </div>
+            <div type="date">
+               <head>
+                  <hi>A<g ref="char:V">Ʋ</g>G<g ref="char:V">Ʋ</g>ST</hi> 1. 1665.</head>
+               <p>
+                  <hi>THis Court being ſenſible, that through the wicked practices of many perſons, who do prophane Gods holy Sabbaths,</hi>
+                  <note place="margin">All Fines f<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> Prophanation of the Sabba<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h as formerly to be to the Counties, &amp;c.</note> 
+                  <hi>and contemn the publick Worſhip of his Houſe, the Name of God is greatly diſhonoured, and the Profeſſion of his People here greatly ſcandalized, as tending to all Prophaneneſs and Irreligion; As alſo that by reaſon of the late Order of</hi> October 20. 1663. <hi>remitting the Fines impoſed on ſuch to the uſe of the ſeveral Towns, the Laws made for reclaiming ſuch Enormities are become ineffectuall:</hi> Do therefore Order and Enact, That henceforth all Fines impoſed according to Law for Prophanation of the Sabbath, Contempt or Neglect of Gods Publick Worſhip, Reproaching of the Laws, and Authority here Eſtabliſhed according to His Majeſties Charter, ſhall be to the uſe of the ſeveral Counties, as formerly; Any thing in the aboveſaid Law to the con<g ref="char:EOLhyphen"/>trary notwithſtanding. And in caſe any perſon or perſons ſo ſentenced, do neglect or refuſe to pay ſuch Fine or Mulct as ſhall be legally impoſed on them, or give Security in Court to the Treaſurer for payment thereof, every ſuch perſon or perſons ſo refuſing or neglecting to ſubmit to the Courts Sentence, ſhall for ſuch his contempt be Corporally puniſhed, according as the Court that hath cognizance of the caſe ſhall determine: And where any are Corporally puniſhed, their Fines ſhall be remitted.</p>
+            </div>
+            <div type="date">
+               <head>
+                  <hi>OCTOBER</hi> 11. 1665.</head>
+               <p>
+                  <hi>VVHereas ſundry Inconveniences do ariſe, by reaſon that Plaintiffs in Civil Caſes do delay to Enter their Actions, to the great expence of much precious time,</hi>
+                  <note place="margin">Rule for En<g ref="char:EOLhyphen"/>try of Actions.</note> 
+                  <hi>and damage to the Publick:</hi> This Court doth therefore Order, That henceforth no Action ſhall be Entred after the firſt day of the Court is ended. And in caſe any Plaintiff ſhall delay his Entry longer then the firſt Forenoon of the Courts ſitting, every ſuch perſon or perſons ſhall pay double Entry-money. And all perſons, whether Parties or Witneſſes, are enjoyned to attend their reſpective Concerns in every Court of Juſtice, as well the firſt Forenoon of the Court, as afterwards; and ſhall preſent the whole Plea and Evidence before the Caſe be committed to the Jury, and no
+<pb n="3" facs="tcp:104901:2"/>
+                  <!-- PDF PAGE 108 -->after-Plea or Evidence ſhall be admitted to any perſon, Any Law, Uſage or Cuſtome to the contrary notwithſtanding. And for that end, all Marſhals and Conſtables are enjoyned to make their Returns of Attachments by them ſerved, ſome time the firſt Forenoon of the Court that is to take cognizance of the Caſe concerned therein. Provided, That the double Entry money be paid by him that ſo neglects his Entry, and not put the Defendant to unneceſſary charge through his default.</p>
+               <p>
+                  <note place="margin">Addition to the Law of Inne-keepers.</note>
+                  <hi>AS an Addition to the Law tit.</hi> Inne-keepers: It is Ordered by this Court, and the Authority thereof, That where any perſon or perſons what<g ref="char:EOLhyphen"/>ſoever ſhall preſume to keep an houſe of Publick Entertainment, Ordinary, Cooks ſhop, or ſhall by Retail ſell Wine, Strong Beer, Liquors or Cider, without Licenſe firſt had and orderly obtained; or having had Licenſe, and not renewed as the Law requireth, or being diſcharged for any Miſdemeanour committed, or ſuffered to be done in their houſes, or in or about the ſame: It ſhall be lawful for any Court or Magiſtrate, on complaint made to them of ſuch Miſdemeanour, to ſend for ſuch perſon or perſons before them, and be<g ref="char:EOLhyphen"/>ing legally convicted of any the aboveſaid Offences, to require Bond, with ſufficient Sureties for the good Abbearance of ſuch perſon or perſons, and in ſpeciall for their Obſervance of the ſaid Law: And in caſe of Refuſall to give ſuch Bond with Sureties as is required; The Court or Magiſtrate that hath cognizance of ſuch Complaint, ſhall commit ſuch perſon or perſons con<g ref="char:EOLhyphen"/>victed as aboveſaid to Priſon, untill the next Court of that County.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
